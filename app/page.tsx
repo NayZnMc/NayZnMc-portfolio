@@ -26,7 +26,7 @@ const DATA = {
   location: "Paris, France",
   email: "NayZnMc@gmail.com",
   discord: ".nayzn",
-  linkedin: "www.linkedin.com/in/NayZn",
+  linkedin: "https://www.linkedin.com/in/nayzn-dev-449102395/",
   github: "https://github.com/NayZnMc",
 
   pitch:
